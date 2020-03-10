@@ -1,0 +1,53 @@
+01 Septuaginta (0527) - Abdias (040).xml
+02 Septuaginta (0527) - Aggaeus (045).xml
+03 Septuaginta (0527) - Amos (037).xml
+04 Septuaginta (0527) - Baruch (050).xml
+05 Septuaginta (0527) - Bel et Draco (LXX) (058).xml
+06 Septuaginta (0527) - Canticum (031).xml
+07 Septuaginta (0527) - Daniel (LXX) (056).xml
+08 Septuaginta (0527) - Deuteronomium (005).xml
+09 Septuaginta (0527) - Ecclesiastes (030).xml
+10 Septuaginta (0527) - Epistula Jeremiae (052).xml
+11 Septuaginta (0527) - Esdras I (017).xml
+12 Septuaginta (0527) - Esdras II (018).xml
+13 Septuaginta (0527) - Esther (019).xml
+14 Septuaginta (0527) - Exodus (002).xml
+15 Septuaginta (0527) - Ezechiel (053).xml
+16 Septuaginta (0527) - Genesis (001).xml
+17 Septuaginta (0527) - Habacuc (043).xml
+18 Septuaginta (0527) - Isaias (048).xml
+19 Septuaginta (0527) - Jeremias (049).xml
+20 Septuaginta (0527) - Job (032).xml
+21 Septuaginta (0527) - Joel (039).xml
+22 Septuaginta (0527) - Jonas (041).xml
+23 Septuaginta (0527) - Josue (cod. Vat.) (007).xml
+24 Septuaginta (0527) - Judices (cod. Al.) (008).xml
+25 Septuaginta (0527) - Judith (020).xml
+26 Septuaginta (0527) - Lamentationes (051).xml
+27 Septuaginta (0527) - Leviticus (003).xml
+28 Septuaginta (0527) - Machabaeorum I (023).xml
+29 Septuaginta (0527) - Machabaeorum II (024).xml
+30 Septuaginta (0527) - Machabaeorum IV (026).xml
+31 Septuaginta (0527) - Machabaeourum III (025).xml
+32 Septuaginta (0527) - Malachias (047).xml
+33 Septuaginta (0527) - Michaeas (038).xml
+34 Septuaginta (0527) - Nahum (042).xml
+35 Septuaginta (0527) - Numeri (004).xml
+36 Septuaginta (0527) - Odae (028).xml
+37 Septuaginta (0527) - Osee (036).xml
+38 Septuaginta (0527) - Paralipomenon I (015).xml
+39 Septuaginta (0527) - Paralipomenon II (016).xml
+40 Septuaginta (0527) - Proverbia (029).xml
+41 Septuaginta (0527) - Psalmi (027).xml
+42 Septuaginta (0527) - Psalmi Salomonis (035).xml
+43 Septuaginta (0527) - Regnorum I (011).xml
+44 Septuaginta (0527) - Regnorum II (012).xml
+45 Septuaginta (0527) - Regnorum III (013).xml
+46 Septuaginta (0527) - Regnorum IV (014).xml
+47 Septuaginta (0527) - Ruth (010).xml
+48 Septuaginta (0527) - Sapientia Salomonis (033).xml
+49 Septuaginta (0527) - Siracides (034).xml
+50 Septuaginta (0527) - Sophonias (044).xml
+51 Septuaginta (0527) - Susanna (LXX) (054).xml
+52 Septuaginta (0527) - Tobias (cod. Vat. et Alex.) (021).xml
+53 Septuaginta (0527) - Zacharias (046).xml
